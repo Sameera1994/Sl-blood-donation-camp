@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title> <!-- enter your site name -->
+	<title>sl_blood_donation_camp</title>
 </head>
 
 
