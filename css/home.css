@@ -1,0 +1,50 @@
+.wrapper{
+	margin: 10px;
+	 
+    }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0000ff;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #6a5acd;
+}
+.link{
+	margin-top: 100px;
+
+}
+.mySlides {
+	display:none;
+	margin-top: 50px;
+}
+.content{
+	margin-right: 300px;
+	margin-left: 200px;
+}
+img{
+	border: 5px solid black;
+	width: 800px;
+	height: 400px;
+
+}
