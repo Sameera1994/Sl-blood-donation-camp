@@ -2,10 +2,13 @@
 <html>
 <head>
 	<title>online blood banking</title>
+
+	<link href="//db.onlinewebfonts.com/c/a4e256ed67403c6ad5d43937ed48a77b?family=Core+Sans+N+W01+35+Light" rel="stylesheet" type="text/css"/>
+	<link rel="stylesheet" href="2.css" type="text/css">
+
 </head>
 
-<link href="//db.onlinewebfonts.com/c/a4e256ed67403c6ad5d43937ed48a77b?family=Core+Sans+N+W01+35+Light" rel="stylesheet" type="text/css"/>
-<link rel="stylesheet" href="2.css" type="text/css">
+<body>
 <div class="body-content">
   <div class="module">
     <h1>Donar Physical Recording Results</h1>
@@ -57,3 +60,5 @@
     </form>
   </div>
 </div>
+</body>
+</html>
