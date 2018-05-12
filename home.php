@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type="text/css" href="css/home.css">
 	
 </head>
-<body background="img/7.jpg" opacity="0.5">
+<body  opacity="0.5">
 	<div class="wrapper">
 		<?php include 'footer.php'; ?><br>
 		<div class="content" >
@@ -33,7 +33,7 @@
 
 		<div class="link">
 			<ul>
-				<li><a class="active" href="#">I want to be a blood donor</a></li>
+				<li><a class="active" href="2.php">I want to be a blood donor</a></li>
   				<li><a href="#">Can I receive blood</a></li>
  				<li><a href="#">Camp near you</a></li>
 			</ul>

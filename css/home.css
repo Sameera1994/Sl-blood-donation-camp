@@ -26,6 +26,9 @@ li a {
 li a:hover:not(.active) {
     background-color: #111;
 }
+body{
+     background:url('http://clevertechie.com/img/bnet-bg.jpg') #0f2439 no-repeat center top;
+}
 
 .active {
     background-color: #6a5acd;
