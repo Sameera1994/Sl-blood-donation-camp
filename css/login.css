@@ -1,0 +1,86 @@
+#main_wrapper{
+	width: 500px;
+	margin: 0 auto;
+	background: white;
+	padding: 50px; 
+	border-radius: 10px;
+	border:2px solid #2c3e50;
+
+}
+.1{
+	width: 100https://github.com/sathiraumesh/Bloggerpx;
+	height: text-align:center;
+	height: 150px;
+
+}
+.myform{
+
+	width: 450px;
+	margin: :0 auto;
+}
+.inputvalues{
+	width: 430px;
+	margin: 0 auto;
+	padding: 5px;
+}
+#login_btn{
+	margin-top: 10px;
+	background-color: #27ae60;
+	padding: 5px;
+	color: white;
+	width: 500px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+#register_btn{
+	margin-bottom: 20px;
+	margin-top: 10px;
+	background-color: #3498db;
+	padding: 5px;
+	color: white;
+	text-align:center;
+	font-size: 18px;
+	font-weight: bold;
+	width: 500px;
+
+}
+
+.inputvalues{
+	width: 500px;
+
+}
+
+#signup_btn{
+	margin-top: 10px;
+	background-color: #3498db;
+	padding: 5px;
+	color: white;
+	width: 500px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#back_btn{
+	margin-bottom: 20px;
+	margin-top: 10px;
+	background-color: red;
+	padding: 5px;
+	color: white;
+	text-align:center;
+	font-size: 18px;
+	font-weight: bold;
+	width: 100px;
+}
+
+#logout_btn{
+	margin-top: 10px;
+	background-color: red;
+	padding: 5px;
+	color: white;
+	width: 500px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
